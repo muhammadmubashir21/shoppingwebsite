@@ -1,0 +1,41 @@
+.text-justify{
+    text-align: justify;
+}
+#footer-bottom-link{
+    text-decoration: none;
+}         
+#breadcrumb{
+    background-color: #21D192;
+    line-height: 60px;
+}
+#breadcrumb li a{
+    color: white;
+    text-decoration: none;
+}
+#breadcrumb li{
+    color: white;
+    text-decoration: none;
+}
+#about-links li{
+    list-style-type: none;
+}
+#about-links li i{
+    color: #21D192;
+}
+#team-section{
+    background-color:#eceff1 ;
+}
+#row-heading{
+    border: 4px solid gray;
+    background-color:burlywood;
+    color: gray;
+    border-radius: 100px;
+
+}
+#services-para{
+    text-align: justify;
+}
+#contact-breadcrumb li a{
+    color: white;
+    text-decoration: none;
+}
